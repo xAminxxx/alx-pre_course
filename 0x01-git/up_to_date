@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull 
+=======
+echo <file name> up_to_date
+>>>>>>> update_script
